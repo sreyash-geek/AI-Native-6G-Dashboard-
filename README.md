@@ -1,4 +1,4 @@
-**AI-Native 6G Live Dashboard for Real-Time Monitoring**
+**AI-Native 6G Live Dashboard for Real-Time Monitoring.**
 
 In this project, I created a fully automated 6G network. A ML model trains on synthetically generated data initially. The data contains network metrics like signal strength, latency, bandwidth, network load, packet loss,
 which are used to predict traffic congestion levels. The data is fed to LLMs for insights on the data and possible optimizations. The LLM insights and the state of the network is input to the RL controller agent, which
