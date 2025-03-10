@@ -6,5 +6,5 @@ adaptively adjusts power to balance latency and optimize network parameters. The
 
 The ML model is trained every 15 data points to make the model generalize well on new data and learn network dynamics better to form a closed-loop continuous learning phase.
 
-To run the live web-based simulation:
+To run the LIVE web-based simulation:
 > streamlit run 6GAI.py
